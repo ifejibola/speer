@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This is a secure and scalable **RESTful API** built using **Express.js** that allows users to create, read, update, and delete notes. Users can also share notes with others and search for notes based on keywords. The API includes authentication, rate limiting, and request throttling to ensure security and performance.
 
----
 
 ## ⚙️ Tech Stack & Choices
 
